@@ -1,0 +1,8 @@
+com\taskmanagement\config\SwaggerConfig.class
+com\taskmanagement\repository\TaskRepository.class
+com\taskmanagement\entity\TaskEntity.class
+com\taskmanagement\service\TaskServiceImpl.class
+com\taskmanagement\controller\TaskController.class
+com\taskmanagement\dto\TaskDTO.class
+com\taskmanagement\service\TaskService.class
+com\taskmanagement\TaskmanagementApplication.class

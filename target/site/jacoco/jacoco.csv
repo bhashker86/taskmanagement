@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+taskmanagement,com.taskmanagement,TaskmanagementApplication,8,0,0,0,3,0,2,0,2,0
+taskmanagement,com.taskmanagement.entity,TaskEntity,37,0,0,0,17,0,10,0,10,0
+taskmanagement,com.taskmanagement.controller,TaskController,12,0,0,0,2,0,2,0,2,0
+taskmanagement,com.taskmanagement.service,TaskServiceImpl,47,0,0,0,12,0,2,0,2,0
+taskmanagement,com.taskmanagement.dto,TaskDTO,31,0,0,0,13,0,9,0,9,0
+taskmanagement,com.taskmanagement.config,SwaggerConfig,14,0,0,0,6,0,2,0,2,0
